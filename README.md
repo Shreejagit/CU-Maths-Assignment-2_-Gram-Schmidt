@@ -75,7 +75,7 @@ def inner_product(self, v, w):
 
         return orthonormal_basis
 
-            def verify_gram_schmidt(self, processed_vectors):
+      def verify_gram_schmidt(self, processed_vectors):
         """
         Verifies if a set of vectors follows the Gram-Schmidt process.
         """
